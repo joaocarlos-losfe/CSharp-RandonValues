@@ -126,6 +126,7 @@ public class RandonGenerateKey
 
 	private string binary()
 	{
+		//adicionar binarios
 		return "..";
 	}
 }
